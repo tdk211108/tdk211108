@@ -10,7 +10,7 @@ Right now, I am focusing on studying and developing fundamental IT skills.
 ## <span style="color:#7b9cf0;">📬 Contact</span>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinhduykhoa2008@gmail.com)
-
+<br>trinhduykhoa2008@gmail.com
 <hr>
 
 <div align="center">
