@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#f2f2f7;">Hello, World! 👋</h1>
 
 I am currently a Freshman at FIT - HCMUS.  
-Right now, I am focusing on studying and developing fundamental IT skills.
+Right now, my main focus right now is studying and developing fundamental IT skills.
 
 ## <span style="color:#7b9cf0;">💻 Technology</span>
 
