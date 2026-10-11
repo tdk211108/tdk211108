@@ -5,7 +5,7 @@ Right now, my main focus right now is studying and developing fundamental IT ski
 
 ## <span style="color:#7b9cf0;">💻 Technology</span>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,cpp)](https://skillicons.dev)
 
 ## <span style="color:#7b9cf0;">📬 Contact</span>
 
